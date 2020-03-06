@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono');
+@import url('https://fonts.googleapis.com/css?family=Satisfy');
+@import url('https://fonts.googleapis.com/css?family=Roboto:300');
+
+h2 {
+    background: url(../img/zen.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.page-wrapper{
+    width: 100%;
+}
+.intro{
+}
+.intro header{
+    width: 100%;
+    background-image: url(../img/huntington.png);
+    background-repeat: repeat-x;
+    background-size: auto;
+    height: 350px;
+    margin: auto;
+    text-align: center;
+}
+.intro header h1 {
+    padding-top: 120px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+    text-shadow: black;
+    text-transform: uppercase;
+    color: white;
+}
+.intro header h2 {
+    /* padding-top: 150px; */
+    font-family: 'Satisfy', cursive;;
+    color: white;
+}
+.summary{
+    font-size: 110%;
+    font-family: 'IBM Plex Mono', monospace;
+    color: gray;
+}
+.summary a{
+    color: gray;
+    font-size: 90%;
+    font-weight: bold;
+    text-decoration: none;
+}
+.preamble{
+    margin-top: 50px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: gray;
+    font-size: 100%;
+}
+.preamble abbr{
+    text-decoration: none;
+}
+.explanation{
+    margin-top: 50px;
+    font-family: 'IBM Plex Mono', monospace;
+    color: gray;
+    font-size: 100%;
+}
+h3{
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+.participation {
+    background-image: url(../img/bamboo.png);
+    background-repeat: repeat-x;
+    background-color: rgb(106, 148, 106);
+    font-family: 'IBM Plex Mono', monospace;
+    height: 200px;
+}
+.benefits{
+    border-top: 100%;
+    background-image: url(../img/bamboo.png);
+    background-color: rgb(106, 148, 106);
+    font-family: 'IBM Plex Mono', monospace;
+    height: 100px;
+}
+.benefits p{
+    height: 100%;
+}
+.requirements{
+    font-size: 95%;
+    font-family: 'IBM Plex Mono', monospace;
+    color: gray;
+}
+.requirements a{
+    color: gray;
+    font-size: 90%;
+    font-style: bold;
+    text-decoration: none;
+}
+
+.participation abbr{
+    text-decoration: none;
+    
+    /* color: gray; */
+}
