@@ -69,14 +69,14 @@ h3{
     background-repeat: repeat-x;
     background-color: rgb(106, 148, 106);
     font-family: 'IBM Plex Mono', monospace;
-    height: 200px;
+    /* height: 200px; */
 }
 .benefits{
     border-top: 100%;
     background-image: url(../img/bamboo.png);
     background-color: rgb(106, 148, 106);
     font-family: 'IBM Plex Mono', monospace;
-    height: 100px;
+    /* height: 100px; */
 }
 .benefits p{
     height: 100%;
